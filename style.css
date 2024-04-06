@@ -1,0 +1,12 @@
+body{background-color: black;}
+h1{text-align: center;
+background-image: url(imagenes/images.png);
+color: black;
+padding: 50px;
+}
+table{color: white;}
+th{text-align: left;}
+h2{color: white;}
+p{
+    color: white;
+}
